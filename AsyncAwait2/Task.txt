@@ -1,0 +1,12 @@
+﻿Напишите простейший менеджер закачек. Пользователь задает адрес страницы, которую необходимо загрузить. 
+В процессе загрузки пользователь может ее отменить. 
+Пользователь может задавать несколько источников для закачки. 
+Скачивание страниц не должно блокировать интерфейс приложения.
+Примерные ссылки:
+https://habr.com/ru/post/482354/
+https://habr.com/ru/post/470830/
+https://docs.microsoft.com/en-us/dotnet/api/system.threading.cancellationtoken?redirectedfrom=MSDN&view=net-5.0
+https://stackoverflow.com/questions/14685147/how-can-i-parse-http-urls-in-c
+https://grantwinney.com/
+https://vk.com/
+https://www.google.com/

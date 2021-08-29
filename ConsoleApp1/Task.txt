@@ -1,0 +1,3 @@
+﻿Write a program, which creates an array of 100 Tasks, runs them and wait all of them are not finished. 
+Each Task should iterate from 1 to 1000 and print into the console the following string: “Task #0 – {iteration number}”.
+

@@ -1,0 +1,2 @@
+﻿Write a program, which multiplies two matrices and uses class Parallel. 
+
